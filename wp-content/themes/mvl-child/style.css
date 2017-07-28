@@ -1,0 +1,225 @@
+/*
+Theme Name: My Vaccine Lawyer Child
+Author: The 215 Guys
+Author URI: https://www.the215guys.com
+Template: mvl
+*/
+@import url("../mvl/style.css");
+
+@media only screen and (max-width:1200px) and (min-width:1025px) {
+    header .mkd-grid {
+        width:980px;
+    }
+}
+
+body {
+	font-family: "Open Sans";
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+	font-family: "Montserrat";
+	font-weight: normal;
+}
+
+
+.mkd-sticky-holder .mkd-logo-wrapper {
+    display: none;
+}
+#footer-cta h2 {
+    font-size: 22px;
+    margin: 0;
+}
+#footer-cta .vc_row .mkd-section-inner {
+    width: 100%;
+}
+footer .mkd-footer-top-holder {
+    background-color: #072A46;
+    border-bottom: 3px solid #6f0505;
+}
+footer .mkd-column:after {
+    content:none !important;
+}
+footer .mkd-icon-list-text {
+    padding: 0 !important;
+}
+footer .mkd-icon-list-icon-holder i {
+    display: none !important;
+}
+footer ul.menu li ul {
+    display: none;
+}
+header .mkd-icon-font-elegant, header .mkd-icon-ion-icon,
+header .mkd-icon-list-text, header .icon-earphones-alt {
+    font-size: 16px !important;
+}
+footer span.mkd-icon-font-elegant {
+    font-size: 14px !important;
+}
+footer .mkd-iwt-text-holder p {
+    font-size: 12px !important;
+}
+.mkd-content h1,
+.mkd-content h2,
+.mkd-content h3,
+.mkd-content h4,
+.mkd-content h5,
+.mkd-content h6 {
+    margin: 20px 0;
+}
+.mkd-content h1:first-child,
+.mkd-content h2:first-child,
+.mkd-content h3:first-child,
+.mkd-content h4:first-child,
+.mkd-content h5:first-child,
+.mkd-content h6:first-child {
+    margin-top:0;
+}
+.mkd-content p,
+.mkd-content ul {
+    margin-bottom: 15px;
+}
+.mkd-column1 {
+    padding-bottom: 40px;
+}
+body.single-post .mkd-title {
+    display: none;
+}
+
+.mkd-sticky-header:not(.header-appear) {
+	display:none;
+}
+
+.mkd-header-standard .mkd-page-header .mkd-logo-wrapper a {
+	height:37px !important;
+}
+header .mkd-vertical-align-containers.mkd-25-75 .mkd-position-left {
+	width: calc( 100% - 675px );
+}
+header .mkd-vertical-align-containers.mkd-25-75 .mkd-position-right {
+	width:675px;
+}
+body.search .mkd-post-info-column,
+body.search .mkd-post-info {
+    display: none !important;
+}
+footer .mkd-footer-top.mkd-footer-top-full {
+    padding: 40px 0 20px;
+    width: 1300px;
+    margin: 0 auto;
+}
+footer .mkd-four-columns .mkd-column:first-child, footer .mkd-four-columns .mkd-column:last-child {
+    width: 30%;
+}
+footer .mkd-four-columns .mkd-column:nth-child(2) {
+    width: 17%;
+}
+footer .mkd-four-columns .mkd-column:nth-child(3) {
+    width: 23%;
+}
+footer .mkd-footer-top-holder .mkd-footer-top-columns > .mkd-four-columns-inner .mkd-column-inner {
+    padding:0 20px;
+}
+footer .widget .mkd-footer-widget-title {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 700;
+}
+footer .textwidget {
+    color: #fff;
+}
+footer .textwidget p {
+    font-size:13px;
+    line-height:20px;
+    color:#fff !important;
+}
+footer .contact-info {
+    font-size: 15px;
+    line-height: 20px;
+}
+
+nav > ul li ul li a span.item_text {
+    transition:all .5s;
+}
+nav > ul li ul li a:hover span.item_text {
+    color: #fff;
+    font-weight: bold;
+}
+nav > ul li ul li a:hover i:before {
+    color: #fff;
+}
+.mkd-page-header > .mkd-logo-area {
+    height:110px;
+}
+footer .mkd-footer-widget-title {
+    font-size: 18px !important;
+}
+footer a {
+    color: #fff;
+}
+footer .mkd-footer-bottom-holder .widget li a {
+    font-size: 10px !important;
+}
+footer .mkd-footer-bottom-holder .widget .textwidget {
+    font-size: 10px;
+    line-height: 15px;
+}
+footer .mkd-footer-bottom-holder {
+    height:50px !important;
+}
+
+footer .mkd-footer-top-holder .mkd-footer-top-columns>.mkd-four-columns-inner {
+margin:0 !important;
+}
+
+#sidebar-testimonial {
+    background-color: #f2f2f2;
+    padding: 0 10px;
+}
+#sidebar-testimonial h2 {
+    text-align: center;
+    background-color: #072a46;
+    color: #fff;
+    padding: 15px 0;
+    border-bottom: 3px solid #6f0505;
+    margin: 0 -10px;
+}
+#sidebar-testimonial .alignleft {
+    padding: 0 !important;
+}
+#sidebar-testimonial h3 {
+    padding-top: 5px;
+    margin-bottom: 5px;
+    color: #000;
+}
+#sidebar-testimonial h4 {
+    font-size: 12px;
+    text-align: left !important;
+    text-transform: initial;
+}
+li {
+    font-size: 18px;
+}
+.textwidget ul li a {
+    font-size: 13px;
+
+
+
+
+@media only screen and (max-width:1300px) {
+footer .mkd-footer-top.mkd-footer-top-full {
+width:1024px;
+}
+}
+@media only screen and (max-width:1024px) {
+footer .mkd-footer-top.mkd-footer-top-full {
+width:auto;
+}
+.mkd-footer-top > .mkd-four-columns .mkd-four-columns-inner .mkd-column {
+    width:50%;
+}
+}
+

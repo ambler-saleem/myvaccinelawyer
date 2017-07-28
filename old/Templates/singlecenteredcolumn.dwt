@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon"
+ href="http://www.mullerbrazil.com/images/favicon.jpg" type="image/x-icon" />
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42438989-2', 'mullerbrazil.com');
+  ga('send', 'pageview');
+
+</script>
+<script language="javascript" type="text/javascript" src="../js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="../js/jquery.equalheights.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function() {
+        $("#body_left, #body_right,").equalHeights(700);
+		
+    });
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Muller Brazil</title>
+<!-- TemplateEndEditable -->
+<link href="../styles/mullerbrazil.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+
+</style>
+<!-- TemplateParam name="Link Center" type="boolean" value="false" -->
+</head>
+
+<body>
+<div id="containermb">
+<div id="banner"><img src="../images/header.png" width="960" 	height="161" alt="Muller Brazil" /></div>
+<div id="top_nav">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="aboutus.html">About US</a></li>
+    <li><a href="attorneys.html">ATTORNEYS</a> </li>
+    <li><a href="#">Practice Areas</a>
+      <ul>
+       <li><a href="personalinjury.html">Personal Injury</a></li> 
+       <li><a href="vaccineinjury.html">Vaccine Injuries</a></li>
+       <li><a href="insurancecoveragebadfaith.html">Insurance Coverage <br />& Bad Faith</a></li>
+        
+        <li><a href="workerscomp.html">Workers' Comp</a></li>
+        <li><a href="realestate.html">Real Estate</a></li>
+        <li><a href="wills.html">Wills</a></li>
+      </ul>
+    </li>
+    <li><a href="http://www.mullerbrazil.com/blog">Blog</a></li>
+    <li><a href="contactus.html">Contact US</a></li>
+  </ul>
+</div>
+<div id="main_image"><!-- TemplateBeginEditable name="imagequote" --><img src="images/mullerbrazilgif.png" width="960" height="221"/><!-- TemplateEndEditable --></div>
+<div id="bottom_nav">
+  <ul>
+  <li><a href="#">Personal Injury</a>
+      <ul>
+        <li><a href="mvaccident.html">Auto Accident</a></li>
+        <li><a href="sliptrip.html">Slip, Trip or Fall</a></li>
+        <li><a href="medinjury.html">Medical Injury</a></li>
+       
+      </ul>
+    </li>
+    
+     <li><a href="vaccineinjury.html">Vaccine Injury</a> </li>
+     <li><a href="insurancecoveragebadfaith.html">Insurance Coverage & Bad Faith</a></li>
+    <li><a href="workerscomp.html">Workers' Compensation</a></li>
+   <li><a href="realestate.html">Real Estate</a></li>
+    <li><a href="wills.html">Wills</a></li>
+  </ul>
+</div>
+<div id="body_left">
+<div id="body_left_textbox"><!-- TemplateBeginEditable name="maintext" -->
+  <h2>Who We Are</h2><p class="first">We began our careers working in a large Philadelphia insurance defense firm. We concentrated our practices defending major corporations and insurance companies against liability.  We honed our courtroom skills and battled for our clients.  While we are indebted for the invaluable experience, defending insurance companies was simply not the work we believed in.  We were on the wrong side.  </p>
+  <p class="first">When we attended law school years ago, we imagined a focused, aggressive law firm with an open door.  We imagined a practice dedicated to helping ordinary people with ordinary (or not so ordinary) problems.  We were determined to fight for the victim that was hit by a reckless driver; the mother who slipped and fell while grocery shopping; the homeowners that were bullied by their insurance company after their home was damaged; and the individual who developed a medical condition after a receiving a routine flu shot.  </p>
+  <p class="first">We are experienced attorneys and have litigated an array of motor vehicle accidents, slip and falls, workers compensation claims and insurance coverage matters.   We spent years working for insurance companies and have become well-versed in defense strategies and tactics.  Consequently, we know how to beat the insurance companies; we know the weak spots in their defenses and we are well-versed in the strategies that can beat them.</p>
+  <h2>Who We Help</h2><h1>Homeowners & Business Owners</h1><p class="first">You suffered damage to your home, property or business.  The insurance company determined that your damage was not covered or undervalued your loss.  Insurance companies can be wrong.  We will review and analyze your insurance policy to determine whether you are entitled to receive money from the insurance company and fight for the damages to which you are legally entitled.  </p>
+  <h1>Accident Victims</h1><p class="first">You were injured in a car accident, slip and fall incident, by a misdiagnosis or mistake by your healthcare professional or in some other fashion.  You may be entitled for compensation for your medical treatment and pain and suffering.  We offer free consultation to determine the facts and legal implications of your particular accident and determine the best course of action to maximize your recovery.  </p>
+  <h1>Injured Workers</h1><p class="first">You were injured at work.  It does not matter whose fault it was.  If you are injured at work, and you are unable to work, you are entitled to workers' compensation payments benefits.  Your employer is obligated to pay your medical bills and send you weekly disability checks.  We will ensure   </p>
+  <p class="first">We serve clients throughout Pennsylvania and New Jersey, with offices in Philadelphia and Scranton.  If transportation is an issue, we will come to you.</p>
+<!-- TemplateEndEditable --></div></div>
+<div id="body_right"><div id="blog_box"><ul class="links"><li class="round"><a href="http://mullerbrazil.com/blog/?p=40" target="_new">Insurance Company Denying Liability Coverage to Penn State</a>, by Paul R. Brazil, Esq.</li>
+<li class="round"><a href="http://mullerbrazil.com/blog/?p=13" target="_new">Vaccine Injury Flowchart</a>, by Paul R. Brazil, Esq.</li>
+<li class="round"><a href="http://mullerbrazil.com/blog/?p=54" target="_new">Dissecting Your Automobile Insurance Policy: The Importance of UM/UIM Coverage</a>, by Max Muller, Esq.</li>
+<li class="round"><a href="http://mullerbrazil.com/blog/?p=58" target="_new">The Significance of Stacking In Your Automobile Policy</a>, by Max Muller, Esq.</li>
+
+
+</ul></div>
+
+<div id="articles_box"><!-- TemplateBeginEditable name="articles" --><!-- TemplateEndEditable --></div>
+  <!-- TemplateBeginIf cond="_document['Link Center']" --><!-- TemplateBeginEditable name="EditRegion4" --><div id="link_center_box"><ul class="links"><li class="round">Testing Testing</li></ul></div>
+<!-- TemplateEndEditable --><!-- TemplateEndIf -->
+</div>
+
+ 
+
+<div id="info_bar">
+
+<div id="info_bar_left">
+ 
+ <div id="phila">
+  <h5>Philadelphia Office</h5>
+  <p class="address">2401 Pennsylvania Ave.</p>
+  <p class="address"> Suite 1C-44</p>
+  <p class="address"> Philadelphia, PA 19130 </p></div>
+  
+  <div id="scranton">
+  <h5>Scranton Office</h5>
+  <p class="address">310 Adams Ave.</p>
+  <p class="address"> Suite 200</p>
+  <p class="address"> Scranton, PA 18503 </p></div> 
+  
+  <div id="phone_fax">
+  <p class="address">  <br /></p>
+  <p class="address">Phone: (215) 259-8662 </p>
+  <p class="address">Fax: (215) 763-9520 </p>
+  
+  </div>
+  </div>
+  
+  
+  <div id="info_bar_right">
+    <p class="leftalign">
+
+Max Muller and Paul Brazil, the attorneys at Muller Brazil, LLP represent clients in Philadelphia, Pennsylvania, the surrounding Bucks County, Chester County, Delaware County, Montgomery County, Philadelphia County, and the Lehigh Valley area; and cities such as Media, Doylestown, and Norristown. We also serve clients in the greater Scranton area and are proud to serve clients throughout all of New Jersey.</p>
+</div>
+  
+</div>
+
+<div id="footer"><p class="second">The information you obtain at this site is not, nor is it intended to be, legal advice. You should consult an attorney for advice regarding your individual situation. We invite you to contact us and welcome your calls, letters and electronic mail. Contacting us does not create an attorney-client relationship. Please do not send any confidential information to us until such time as an attorney-client relationship has been established.</p>
+
+<p class="third">© 2012 by Muller Brazil, LLP. All rights reserved.</p>
+	</div>
+</div>
+</body>
+</html>

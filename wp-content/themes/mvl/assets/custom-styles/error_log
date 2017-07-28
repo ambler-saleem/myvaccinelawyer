@@ -1,0 +1,2 @@
+[15-Feb-2017 23:48:58 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myvaccin/public_html/wp-content/themes/mvl/assets/custom-styles/general-custom-styles.php on line 466
+[15-Feb-2017 23:48:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myvaccin/public_html/wp-content/themes/mvl/assets/custom-styles/general-custom-styles-responsive.php on line 18

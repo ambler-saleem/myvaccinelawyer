@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<markers>
+  <marker>
+    <marker_id>2</marker_id>
+    <map_id>1</map_id>
+    <title></title>
+    <address>2401 Pennsylvania Avenue, Suite 1C-44 Philadelphia, PA 19130</address>
+    <desc></desc>
+    <pic></pic>
+    <icon></icon>
+    <linkd></linkd>
+    <lat>39.966876</lat>
+    <lng>-75.178052</lng>
+    <anim>2</anim>
+    <retina>0</retina>
+    <category></category>
+    <infoopen>1</infoopen>
+  </marker>
+</markers>
