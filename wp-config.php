@@ -21,7 +21,7 @@ define( 'WPCACHEHOME', '/home/myvaccin/public_html/wp-content/plugins/wp-super-c
 define('DB_NAME', 'myvaccin_wp_t0i9');
 
 /** MySQL database username */
-define('DB_USER', 'myvaccin_ambler');
+define('DB_USER', 'myvaccin_wp_t0i9');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'BM}D$V={(iKS');
