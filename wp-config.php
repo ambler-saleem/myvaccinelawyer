@@ -18,13 +18,13 @@
 /** The name of the database for WordPress */
 //define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/home/myvaccin/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'myvaccin_myvaccinelawyer');
+define('DB_NAME', 'myvaccin_wp_t0i9');
 
 /** MySQL database username */
-define('DB_USER', 'myvaccin_myvaccinelawyer');
+define('DB_USER', 'myvaccin_ambler');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'X!%3UusE1c0');
+define('DB_PASSWORD', 'BM}D$V={(iKS');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
